@@ -2,8 +2,8 @@
 
 A sleek, interactive web-based **To-Do List application** built with **vanilla JavaScript**, HTML, and CSS. Users can add, mark complete, and delete tasks. Tasks persist across sessions using **localStorage**.
 
-🔗 **Live Demo:** [Add your Netlify link here]  
-🔗 **GitHub Repository:** [Add your GitHub link here]
+🔗 **Live Demo:** https://to-do-list-by-ydevsonu.netlify.app/
+🔗 **GitHub Repository:** https://github.com/ydevsonu/to-do-list
 
 ---
 
